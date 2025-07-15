@@ -1,0 +1,1 @@
+Pompous prick. Likes to mess with people around Raven's Loft though ultimately harmless. 

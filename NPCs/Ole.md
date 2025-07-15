@@ -1,0 +1,1 @@
+Simpleton worked for [[Professor Jagen]] collecting bodies from graveyards in the Upper Ward. Was working for bread and moldy bread uses the stat block of a commoner. 

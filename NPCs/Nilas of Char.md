@@ -1,0 +1,1 @@
+Lieutenant in the Dominion. Positioned on the city side of the Bridges "North".  

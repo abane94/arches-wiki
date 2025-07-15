@@ -1,0 +1,1 @@
+Party was told by Kralkin that Marvo entrusted Bartholomew with a [[Keystone]]  after releasing him from prison. 

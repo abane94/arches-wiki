@@ -1,0 +1,1 @@
+Peasant that worshiped the Raven Queen. Was an undertaker of sorts. Sacrifice by the Call to open the [[Emperor's Ceasement]] 

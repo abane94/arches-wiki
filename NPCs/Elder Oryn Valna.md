@@ -1,0 +1,1 @@
+- No, Yes, Maybe, Certainly Not - Next answers to Walkers question 

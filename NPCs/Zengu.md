@@ -1,0 +1,1 @@
+Fjord troll, for the payment of one electrum Zengu will open a portal to where the traveler wants. 

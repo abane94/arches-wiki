@@ -1,0 +1,2 @@
+ (Koon -ToK - Ca ) 
+ **Khun-Toca is not a name, it's a Title. The Khun-Toca is a spiritual leader in Juten and oversees the rite of the standing stones. A rite of passage for the people of Juten. The rite can also be untaken to seek knowledge. Which is what the party did to find the Shrine.**

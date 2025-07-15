@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "bdd1ee2c727a1399",
+    "type": "split",
+    "children": [
+      {
+        "id": "54cdce0323bbea10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b61a2ebcc66381a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c648e5c77705cec8",
+    "type": "split",
+    "children": [
+      {
+        "id": "888277c9d86bd0bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "069ce11368996c9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9e7c7e3bf7f53ae3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d9ffa8695b33cd09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1072bf4632e66c2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7197296e339181cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1eb262cf775a2411",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NPCs/Haldor Clapit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Haldor Clapit"
+            }
+          },
+          {
+            "id": "d2fbca68a3e3bef2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NPCs/Haldor Clapit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Haldor Clapit"
+            }
+          },
+          {
+            "id": "140d4dbe9ccc2463",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "505c484ffa99c89b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NPCs/Haldor Clapit.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Haldor Clapit"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5b61a2ebcc66381a",
+  "lastOpenFiles": [
+    "Index.md",
+    "NPCs/KaRooKa.md",
+    "NPCs/Kaspar Jutta.md",
+    "NPCs/Juten Prime.md",
+    "NPCs/Karla Rask.md",
+    "NPCs/Ka-Zelig.md",
+    "NPCs/Haldor Clapit.md",
+    "NPCs/Joza Rikar.md",
+    "NPCs/Jeeves.md",
+    "NPCs/Jasper Thornbraid.md",
+    "NPCs/Humbert Gerlof.md",
+    "NPCs/Hubkin Thornbraid.md",
+    "NPCs/Hiddly Thornbraid.md",
+    "NPCs/Hersal Bolide.md",
+    "NPCs/Grazog.md",
+    "NPCs/Gregor Stain.md",
+    "NPCs/Grave Castaway.md",
+    "NPCs/Fletcher Warner.md",
+    "NPCs/Grashra.md",
+    "NPCs/Erland Steffen.md",
+    "NPCs/Fynrick Bolide.md",
+    "NPCs/Ferndale Bolide.md",
+    "NPCs/Fentinea Ferndok.md",
+    "NPCs/Fending Mistwood.md",
+    "NPCs/Falk Norton.md",
+    "NPCs/Elder Theven Eyldrelkime.md",
+    "Locations",
+    "New folder",
+    "NPCs"
+  ]
+}

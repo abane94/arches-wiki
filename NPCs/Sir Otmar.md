@@ -1,0 +1,1 @@
+Knight in the [[Knights of Rhine]] brought in by [[Mother Magi]] to provide extra security at the  [[The Magpie's Masquerade]]. 

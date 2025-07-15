@@ -1,0 +1,1 @@
+Amethyst Dragon the polymorphed into a halfling named Norris Elder. Presented [[The Party]] with a trial and granted them the [[Golden Scabbard]]. Waits at [[Avendale]] for the party. One of the three in the 

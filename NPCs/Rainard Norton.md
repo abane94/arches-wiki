@@ -1,0 +1,1 @@
+Once the head of the [[Norton Mining Company]] Rainard fell ill and willed everything to his son [[Randfort Norton]].  Leaving nothing but a modest amount of gold to his other son [[Falk Norton]] 
